@@ -31,18 +31,35 @@ It allows users to add tasks, view tasks, delete tasks, and mark tasks as comple
 - ![Screenshot 3 - Viewing task](https://github.com/anupam311/Python-to-do-list/blob/main/screenshots/viewing%20task.PNG)
 - ![Screenshot 4 - Mark a task as done](https://github.com/anupam311/Python-to-do-list/blob/main/screenshots/mark%20task%20as%20done.PNG)
 
-## 📂 Project Structure
-```
-python-todo-list/
-│── todo.py
-│── README.md
-│── .gitignore
-│── docs/
-│     ├── overview.md
-│     ├── development_process.md
-│     └── future_improvements.md
-│── screenshots/
-```
+## ✨ Project Features List
+✔ 1. Add Tasks
+- Allows the user to add new tasks to the to-do list.
+- Each task is stored with a default status of Pending.
+
+✔ 2. View All Tasks
+- Displays all tasks with:
+        - Task number
+        - Task description
+        - Task status (Pending / Done)
+- This helps the user keep track of their progress.
+
+✔ 3. Delete Tasks
+- Users can remove tasks by entering the task number.
+- Useful for removing tasks that are no longer needed.
+
+✔ 4. Mark Tasks as Done
+- Allows users to update the status of a task from Pending to Done.
+
+✔ 5. User-Friendly Menu System
+- The program provides a clear menu with options that loop until the user chooses to exit.
+
+✔ 6. Simple and Clean Code Structure
+- The code uses:
+        - Functions
+        - Loops
+        - Lists
+        - Dictionaries
+- This improves readability and makes the project easier to expand in the future.
 
 ## 📈 Future Improvements
 - Add GUI  
