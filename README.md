@@ -14,14 +14,13 @@ It allows users to add tasks, view tasks, delete tasks, and mark tasks as comple
 ## 🛠️ How to Run
 1. Clone the Repository from GitHub
 - Open the terminal and run:
-
-### git clone https://github.com/<your-username>/python-todo-list.git
+    git clone https://github.com/<your-username>/python-todo-list.git
 
 2. Navigate into the project folder
-### cd python-todo-list
+    cd python-todo-list
 
 3. Run the Python program
-### python todo.py
+    python todo.py
 
 
 ## 📷 Screenshots
