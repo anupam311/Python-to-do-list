@@ -29,7 +29,7 @@ It allows users to add tasks, view tasks, delete tasks, and mark tasks as comple
 - ![Screenshot 1 - Program Menu](https://github.com/anupam311/Python-to-do-list/blob/main/screenshots/program%20menu.PNG)
 - ![Screenshot 2 - Adding task](https://github.com/anupam311/Python-to-do-list/blob/main/screenshots/add%20task.PNG)
 - ![Screenshot 3 - Viewing task](https://github.com/anupam311/Python-to-do-list/blob/main/screenshots/viewing%20task.PNG)
-- ![Screenshot 4 - Mark a task as done](screenshots/mark task as done.png)
+- ![Screenshot 4 - Mark a task as done](https://github.com/anupam311/Python-to-do-list/blob/main/screenshots/mark%20task%20as%20done.PNG)
 
 ## 📂 Project Structure
 ```
