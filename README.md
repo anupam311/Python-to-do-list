@@ -26,10 +26,10 @@ It allows users to add tasks, view tasks, delete tasks, and mark tasks as comple
 ## 📷 Screenshots
 (Add your screenshots below)
 
-- ![Screenshot 1 - Program Menu](screenshots/placeholder.png)
-- ![Screenshot 2 - Adding task](screenshots/placeholder.png)
-- ![Screenshot 3 - Viewing task](screenshots/placeholder.png)
-- ![Screenshot 4 - Mark a task as one](screenshots/placeholder.png)
+- ![Screenshot 1 - Program Menu](screenshots/program menu.PNG)
+- ![Screenshot 2 - Adding task](screenshots/add task.png)
+- ![Screenshot 3 - Viewing task](screenshots/viewing task.png)
+- ![Screenshot 4 - Mark a task as done](screenshots/mark task as done.png)
 
 ## 📂 Project Structure
 ```
