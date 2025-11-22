@@ -24,5 +24,19 @@ while True:
             for idx, task in enumerate(tasks, start=1):
                 status = "Done" if task["done"] else "Pending"
                 print(f"{idx}. {task['task']} - {status}")
+    elif choice == "3":
+        task_num = int(input("Enter task number to delete: "))
+        if 0 < task_num <= len(tasks):
+            tasks.pop(task_num - 1)
+            print("Task deleted successfully!")
+        else:
+            print("Invalid task number.")
+    elif choice == "4":
+        task_num = int(input("Enter task number to mark as done: "))
+        if 0 < task_num <= len(tasks):
+            tasks[task_num - 1]["done"] = True
+            print("Task marked as done!")
+        else:
+            print("Invalid task number.")
 
     
