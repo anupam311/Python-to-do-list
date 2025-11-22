@@ -26,7 +26,7 @@ It allows users to add tasks, view tasks, delete tasks, and mark tasks as comple
 ## 📷 Screenshots
 (Add your screenshots below)
 
-- ![Screenshot 1 - Program Menu](screenshots/program menu.PNG)
+- ![Screenshot 1 - Program Menu](https://github.com/anupam311/Python-to-do-list/blob/main/screenshots/add%20task.PNG?raw=true)
 - ![Screenshot 2 - Adding task](screenshots/add task.png)
 - ![Screenshot 3 - Viewing task](screenshots/viewing task.png)
 - ![Screenshot 4 - Mark a task as done](screenshots/mark task as done.png)
