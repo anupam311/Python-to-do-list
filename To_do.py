@@ -13,10 +13,12 @@ tasks = []
 while True:
     show_menu()
     choice = input("Enter your choice: ")
+    
     if choice == "1":
         task = input("Enter task: ")
         tasks.append({"task": task, "done": False})
         print("Task added successfully!")
+    
     elif choice == "2":
         if not tasks:
             print("No tasks available.")
@@ -24,6 +26,7 @@ while True:
             for idx, task in enumerate(tasks, start=1):
                 status = "Done" if task["done"] else "Pending"
                 print(f"{idx}. {task['task']} - {status}")
+    
     elif choice == "3":
         task_num = int(input("Enter task number to delete: "))
         if 0 < task_num <= len(tasks):
@@ -31,6 +34,7 @@ while True:
             print("Task deleted successfully!")
         else:
             print("Invalid task number.")
+    
     elif choice == "4":
         task_num = int(input("Enter task number to mark as done: "))
         if 0 < task_num <= len(tasks):
@@ -38,5 +42,9 @@ while True:
             print("Task marked as done!")
         else:
             print("Invalid task number.")
+    
+    elif choice == "5":
+        print("Exiting the To-Do List App. Goodbye!")
+        break
 
     
