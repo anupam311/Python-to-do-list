@@ -61,6 +61,19 @@ It allows users to add tasks, view tasks, delete tasks, and mark tasks as comple
     - Dictionaries
 - This improves readability and makes the project easier to expand in the future.
 
+## 📌 Repository structure 
+
+python-todo-list/
+│── todo.py
+│── README.md
+│── .gitignore
+│── docs/
+│     ├── overview.md
+│     ├── development_process.md
+│     └── future_improvements.md
+│── screenshots/
+
+
 ## 📈 Future Improvements
 - Add GUI  
 - Add priority levels  
