@@ -62,7 +62,7 @@ It allows users to add tasks, view tasks, delete tasks, and mark tasks as comple
 - This improves readability and makes the project easier to expand in the future.
 
 ## 📌 Repository structure 
-
+```
 python-todo-list/
 │── todo.py
 │── README.md
@@ -72,7 +72,7 @@ python-todo-list/
 │     ├── development_process.md
 │     └── future_improvements.md
 │── screenshots/
-
+```
 
 ## 📈 Future Improvements
 - Add GUI  
