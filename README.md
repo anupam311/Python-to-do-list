@@ -12,18 +12,25 @@ It allows users to add tasks, view tasks, delete tasks, and mark tasks as comple
 - Simple and user-friendly console interface  
 
 ## 🛠️ How to Run
-1. Install Python (if not already installed)  
-2. Open a terminal inside the project directory  
-3. Run the program using:  
-```
-python todo.py
-```
+1. Clone the Repository from GitHub
+- Open the terminal and run:
+
+- git clone https://github.com/<your-username>/python-todo-list.git
+
+2. Navigate into the project folder
+- cd python-todo-list
+
+3. Run the Python program
+- python todo.py
+
 
 ## 📷 Screenshots
 (Add your screenshots below)
 
-![Screenshot 1](screenshots/placeholder.png)
-![Screenshot 2](screenshots/placeholder.png)
+![Screenshot 1 - Program Menu](screenshots/placeholder.png)
+![Screenshot 2 - Adding task](screenshots/placeholder.png)
+![Screenshot 3 - Viewing task](screenshots/placeholder.png)
+![Screenshot 4 - Mark a task as one](screenshots/placeholder.png)
 
 ## 📂 Project Structure
 ```
