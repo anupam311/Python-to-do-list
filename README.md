@@ -38,9 +38,9 @@ It allows users to add tasks, view tasks, delete tasks, and mark tasks as comple
 
 ✔ 2. View All Tasks
 - Displays all tasks with:
-        - Task number
-        - Task description
-        - Task status (Pending / Done)
+    - Task number
+    - Task description
+    - Task status (Pending / Done)
 - This helps the user keep track of their progress.
 
 ✔ 3. Delete Tasks
@@ -55,10 +55,10 @@ It allows users to add tasks, view tasks, delete tasks, and mark tasks as comple
 
 ✔ 6. Simple and Clean Code Structure
 - The code uses:
-        - Functions
-        - Loops
-        - Lists
-        - Dictionaries
+    - Functions
+    - Loops
+    - Lists
+    - Dictionaries
 - This improves readability and makes the project easier to expand in the future.
 
 ## 📈 Future Improvements
